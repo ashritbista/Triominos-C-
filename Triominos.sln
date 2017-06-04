@@ -5,6 +5,13 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Triominos", "Triominos\Triominos.vcxproj", "{B8998408-8236-454E-96F3-1A72150DCD4B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assets", "Assets", "{500FD767-D38A-4291-8F1C-5758AC248665}"
+	ProjectSection(SolutionItems) = preProject
+		Assets\16x16-5-11.png = Assets\16x16-5-11.png
+		Assets\8x8-3-6.png = Assets\8x8-3-6.png
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
